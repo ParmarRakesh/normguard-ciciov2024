@@ -1,0 +1,6 @@
+variant,val_far,test_far,recall,rules,stored_values
+NormGuard beta=0.0001,0.0,0.0016370579807257534,1.0,"{""fixed"": 526, ""set"": 42, ""range"": 5, ""range+"": 3, ""any"": 0}",906
+NormGuard beta=0.001,0.0005311629199251469,0.0017868719390284429,1.0,"{""fixed"": 526, ""set"": 44, ""range"": 5, ""range+"": 1, ""any"": 0}",925
+NormGuard beta=0.01,0.0021491668913894407,0.0034103104689994063,1.0,"{""fixed"": 526, ""set"": 46, ""range"": 4, ""range+"": 0, ""any"": 0}",946
+no budget tuning (exact rules),,0.0034103104689994063,1.0,"{""fixed"": 526, ""set"": 46, ""range"": 4, ""range+"": 0, ""any"": 0}",946
+ID allow-list only (no byte rules),,0.0,1.0,"{""fixed"": 526, ""set"": 46, ""range"": 4, ""range+"": 0, ""any"": 0}",72

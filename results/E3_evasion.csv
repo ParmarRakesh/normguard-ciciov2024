@@ -1,0 +1,226 @@
+detector,k_bytes,attack,n_unique_frames,evasion_rate,evaded_and_nullified,evaded_with_attack_content,mean_bytes_changed_when_evaded,mean_payload_bytes_kept_when_evaded
+NormGuard,0,DoS,6,0.16666666666666666,0.16666666666666666,0.0,0.0,8.0
+NormGuard,0,GAS,1,0.0,0.0,0.0,,
+NormGuard,0,RPM,4,0.25,0.25,0.0,0.0,8.0
+NormGuard,0,SPEED,2,0.0,0.0,0.0,,
+NormGuard,0,STEERING_WHEEL,3,0.3333333333333333,0.3333333333333333,0.0,0.0,8.0
+ID-allowlist only,0,DoS,6,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,0,GAS,1,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,0,RPM,4,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,0,SPEED,2,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,0,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+RandomForest,0,DoS,6,1.0,0.0,1.0,0.0,8.0
+RandomForest,0,GAS,1,1.0,0.0,1.0,0.0,8.0
+RandomForest,0,RPM,4,1.0,0.0,1.0,0.0,8.0
+RandomForest,0,SPEED,2,1.0,0.0,1.0,0.0,8.0
+RandomForest,0,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+MLP,0,DoS,6,1.0,0.0,1.0,0.0,8.0
+MLP,0,GAS,1,1.0,0.0,1.0,0.0,8.0
+MLP,0,RPM,4,1.0,0.0,1.0,0.0,8.0
+MLP,0,SPEED,2,1.0,0.0,1.0,0.0,8.0
+MLP,0,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+XGBoost,0,DoS,6,1.0,0.0,1.0,0.0,8.0
+XGBoost,0,GAS,1,1.0,0.0,1.0,0.0,8.0
+XGBoost,0,RPM,4,1.0,0.0,1.0,0.0,8.0
+XGBoost,0,SPEED,2,1.0,0.0,1.0,0.0,8.0
+XGBoost,0,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+NormGuard,1,DoS,6,0.16666666666666666,0.16666666666666666,0.0,0.0,8.0
+NormGuard,1,GAS,1,0.0,0.0,0.0,,
+NormGuard,1,RPM,4,0.25,0.25,0.0,0.0,8.0
+NormGuard,1,SPEED,2,0.0,0.0,0.0,,
+NormGuard,1,STEERING_WHEEL,3,0.3333333333333333,0.3333333333333333,0.0,0.0,8.0
+ID-allowlist only,1,DoS,6,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,1,GAS,1,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,1,RPM,4,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,1,SPEED,2,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,1,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+RandomForest,1,DoS,6,1.0,0.0,1.0,0.0,8.0
+RandomForest,1,GAS,1,1.0,0.0,1.0,0.0,8.0
+RandomForest,1,RPM,4,1.0,0.0,1.0,0.0,8.0
+RandomForest,1,SPEED,2,1.0,0.0,1.0,0.0,8.0
+RandomForest,1,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+MLP,1,DoS,6,1.0,0.0,1.0,0.0,8.0
+MLP,1,GAS,1,1.0,0.0,1.0,0.0,8.0
+MLP,1,RPM,4,1.0,0.0,1.0,0.0,8.0
+MLP,1,SPEED,2,1.0,0.0,1.0,0.0,8.0
+MLP,1,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+XGBoost,1,DoS,6,1.0,0.0,1.0,0.0,8.0
+XGBoost,1,GAS,1,1.0,0.0,1.0,0.0,8.0
+XGBoost,1,RPM,4,1.0,0.0,1.0,0.0,8.0
+XGBoost,1,SPEED,2,1.0,0.0,1.0,0.0,8.0
+XGBoost,1,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+NormGuard,2,DoS,6,0.16666666666666666,0.16666666666666666,0.0,0.0,8.0
+NormGuard,2,GAS,1,1.0,0.0,1.0,2.0,6.0
+NormGuard,2,RPM,4,0.25,0.25,0.0,0.0,8.0
+NormGuard,2,SPEED,2,0.5,0.0,0.5,2.0,6.0
+NormGuard,2,STEERING_WHEEL,3,0.3333333333333333,0.3333333333333333,0.0,0.0,8.0
+ID-allowlist only,2,DoS,6,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,2,GAS,1,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,2,RPM,4,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,2,SPEED,2,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,2,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+RandomForest,2,DoS,6,1.0,0.0,1.0,0.0,8.0
+RandomForest,2,GAS,1,1.0,0.0,1.0,0.0,8.0
+RandomForest,2,RPM,4,1.0,0.0,1.0,0.0,8.0
+RandomForest,2,SPEED,2,1.0,0.0,1.0,0.0,8.0
+RandomForest,2,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+MLP,2,DoS,6,1.0,0.0,1.0,0.0,8.0
+MLP,2,GAS,1,1.0,0.0,1.0,0.0,8.0
+MLP,2,RPM,4,1.0,0.0,1.0,0.0,8.0
+MLP,2,SPEED,2,1.0,0.0,1.0,0.0,8.0
+MLP,2,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+XGBoost,2,DoS,6,1.0,0.0,1.0,0.0,8.0
+XGBoost,2,GAS,1,1.0,0.0,1.0,0.0,8.0
+XGBoost,2,RPM,4,1.0,0.0,1.0,0.0,8.0
+XGBoost,2,SPEED,2,1.0,0.0,1.0,0.0,8.0
+XGBoost,2,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+NormGuard,3,DoS,6,0.16666666666666666,0.16666666666666666,0.0,0.0,8.0
+NormGuard,3,GAS,1,1.0,0.0,1.0,2.0,6.0
+NormGuard,3,RPM,4,0.25,0.25,0.0,0.0,8.0
+NormGuard,3,SPEED,2,0.5,0.0,0.5,2.0,6.0
+NormGuard,3,STEERING_WHEEL,3,0.3333333333333333,0.3333333333333333,0.0,0.0,8.0
+ID-allowlist only,3,DoS,6,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,3,GAS,1,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,3,RPM,4,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,3,SPEED,2,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,3,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+RandomForest,3,DoS,6,1.0,0.0,1.0,0.0,8.0
+RandomForest,3,GAS,1,1.0,0.0,1.0,0.0,8.0
+RandomForest,3,RPM,4,1.0,0.0,1.0,0.0,8.0
+RandomForest,3,SPEED,2,1.0,0.0,1.0,0.0,8.0
+RandomForest,3,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+MLP,3,DoS,6,1.0,0.0,1.0,0.0,8.0
+MLP,3,GAS,1,1.0,0.0,1.0,0.0,8.0
+MLP,3,RPM,4,1.0,0.0,1.0,0.0,8.0
+MLP,3,SPEED,2,1.0,0.0,1.0,0.0,8.0
+MLP,3,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+XGBoost,3,DoS,6,1.0,0.0,1.0,0.0,8.0
+XGBoost,3,GAS,1,1.0,0.0,1.0,0.0,8.0
+XGBoost,3,RPM,4,1.0,0.0,1.0,0.0,8.0
+XGBoost,3,SPEED,2,1.0,0.0,1.0,0.0,8.0
+XGBoost,3,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+NormGuard,4,DoS,6,0.3333333333333333,0.16666666666666666,0.16666666666666666,2.0,6.0
+NormGuard,4,GAS,1,1.0,0.0,1.0,2.0,6.0
+NormGuard,4,RPM,4,0.25,0.25,0.0,0.0,8.0
+NormGuard,4,SPEED,2,0.5,0.0,0.5,2.0,6.0
+NormGuard,4,STEERING_WHEEL,3,0.3333333333333333,0.3333333333333333,0.0,0.0,8.0
+ID-allowlist only,4,DoS,6,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,4,GAS,1,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,4,RPM,4,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,4,SPEED,2,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,4,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+RandomForest,4,DoS,6,1.0,0.0,1.0,0.0,8.0
+RandomForest,4,GAS,1,1.0,0.0,1.0,0.0,8.0
+RandomForest,4,RPM,4,1.0,0.0,1.0,0.0,8.0
+RandomForest,4,SPEED,2,1.0,0.0,1.0,0.0,8.0
+RandomForest,4,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+MLP,4,DoS,6,1.0,0.0,1.0,0.0,8.0
+MLP,4,GAS,1,1.0,0.0,1.0,0.0,8.0
+MLP,4,RPM,4,1.0,0.0,1.0,0.0,8.0
+MLP,4,SPEED,2,1.0,0.0,1.0,0.0,8.0
+MLP,4,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+XGBoost,4,DoS,6,1.0,0.0,1.0,0.0,8.0
+XGBoost,4,GAS,1,1.0,0.0,1.0,0.0,8.0
+XGBoost,4,RPM,4,1.0,0.0,1.0,0.0,8.0
+XGBoost,4,SPEED,2,1.0,0.0,1.0,0.0,8.0
+XGBoost,4,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+NormGuard,5,DoS,6,0.5,0.16666666666666666,0.3333333333333333,3.0,5.0
+NormGuard,5,GAS,1,1.0,0.0,1.0,2.0,6.0
+NormGuard,5,RPM,4,0.25,0.25,0.0,0.0,8.0
+NormGuard,5,SPEED,2,0.5,0.0,0.5,2.0,6.0
+NormGuard,5,STEERING_WHEEL,3,0.6666666666666666,0.3333333333333333,0.3333333333333333,2.5,5.5
+ID-allowlist only,5,DoS,6,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,5,GAS,1,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,5,RPM,4,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,5,SPEED,2,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,5,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+RandomForest,5,DoS,6,1.0,0.0,1.0,0.0,8.0
+RandomForest,5,GAS,1,1.0,0.0,1.0,0.0,8.0
+RandomForest,5,RPM,4,1.0,0.0,1.0,0.0,8.0
+RandomForest,5,SPEED,2,1.0,0.0,1.0,0.0,8.0
+RandomForest,5,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+MLP,5,DoS,6,1.0,0.0,1.0,0.0,8.0
+MLP,5,GAS,1,1.0,0.0,1.0,0.0,8.0
+MLP,5,RPM,4,1.0,0.0,1.0,0.0,8.0
+MLP,5,SPEED,2,1.0,0.0,1.0,0.0,8.0
+MLP,5,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+XGBoost,5,DoS,6,1.0,0.0,1.0,0.0,8.0
+XGBoost,5,GAS,1,1.0,0.0,1.0,0.0,8.0
+XGBoost,5,RPM,4,1.0,0.0,1.0,0.0,8.0
+XGBoost,5,SPEED,2,1.0,0.0,1.0,0.0,8.0
+XGBoost,5,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+NormGuard,6,DoS,6,1.0,0.3333333333333333,0.6666666666666666,4.5,3.5
+NormGuard,6,GAS,1,1.0,0.0,1.0,2.0,6.0
+NormGuard,6,RPM,4,1.0,0.5,0.5,4.5,3.5
+NormGuard,6,SPEED,2,1.0,0.0,1.0,4.0,4.0
+NormGuard,6,STEERING_WHEEL,3,1.0,0.6666666666666666,0.3333333333333333,3.6666666666666665,4.333333333333333
+ID-allowlist only,6,DoS,6,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,6,GAS,1,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,6,RPM,4,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,6,SPEED,2,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,6,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+RandomForest,6,DoS,6,1.0,0.0,1.0,0.0,8.0
+RandomForest,6,GAS,1,1.0,0.0,1.0,0.0,8.0
+RandomForest,6,RPM,4,1.0,0.0,1.0,0.0,8.0
+RandomForest,6,SPEED,2,1.0,0.0,1.0,0.0,8.0
+RandomForest,6,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+MLP,6,DoS,6,1.0,0.0,1.0,0.0,8.0
+MLP,6,GAS,1,1.0,0.0,1.0,0.0,8.0
+MLP,6,RPM,4,1.0,0.0,1.0,0.0,8.0
+MLP,6,SPEED,2,1.0,0.0,1.0,0.0,8.0
+MLP,6,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+XGBoost,6,DoS,6,1.0,0.0,1.0,0.0,8.0
+XGBoost,6,GAS,1,1.0,0.0,1.0,0.0,8.0
+XGBoost,6,RPM,4,1.0,0.0,1.0,0.0,8.0
+XGBoost,6,SPEED,2,1.0,0.0,1.0,0.0,8.0
+XGBoost,6,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+NormGuard,7,DoS,6,1.0,0.3333333333333333,0.6666666666666666,4.5,3.5
+NormGuard,7,GAS,1,1.0,0.0,1.0,2.0,6.0
+NormGuard,7,RPM,4,1.0,0.5,0.5,4.5,3.5
+NormGuard,7,SPEED,2,1.0,0.0,1.0,4.0,4.0
+NormGuard,7,STEERING_WHEEL,3,1.0,0.6666666666666666,0.3333333333333333,3.6666666666666665,4.333333333333333
+ID-allowlist only,7,DoS,6,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,7,GAS,1,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,7,RPM,4,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,7,SPEED,2,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,7,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+RandomForest,7,DoS,6,1.0,0.0,1.0,0.0,8.0
+RandomForest,7,GAS,1,1.0,0.0,1.0,0.0,8.0
+RandomForest,7,RPM,4,1.0,0.0,1.0,0.0,8.0
+RandomForest,7,SPEED,2,1.0,0.0,1.0,0.0,8.0
+RandomForest,7,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+MLP,7,DoS,6,1.0,0.0,1.0,0.0,8.0
+MLP,7,GAS,1,1.0,0.0,1.0,0.0,8.0
+MLP,7,RPM,4,1.0,0.0,1.0,0.0,8.0
+MLP,7,SPEED,2,1.0,0.0,1.0,0.0,8.0
+MLP,7,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+XGBoost,7,DoS,6,1.0,0.0,1.0,0.0,8.0
+XGBoost,7,GAS,1,1.0,0.0,1.0,0.0,8.0
+XGBoost,7,RPM,4,1.0,0.0,1.0,0.0,8.0
+XGBoost,7,SPEED,2,1.0,0.0,1.0,0.0,8.0
+XGBoost,7,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+NormGuard,8,DoS,6,1.0,0.3333333333333333,0.6666666666666666,4.5,3.5
+NormGuard,8,GAS,1,1.0,0.0,1.0,2.0,6.0
+NormGuard,8,RPM,4,1.0,0.5,0.5,4.5,3.5
+NormGuard,8,SPEED,2,1.0,0.0,1.0,4.0,4.0
+NormGuard,8,STEERING_WHEEL,3,1.0,0.6666666666666666,0.3333333333333333,3.6666666666666665,4.333333333333333
+ID-allowlist only,8,DoS,6,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,8,GAS,1,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,8,RPM,4,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,8,SPEED,2,1.0,0.0,1.0,0.0,8.0
+ID-allowlist only,8,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+RandomForest,8,DoS,6,1.0,0.0,1.0,0.0,8.0
+RandomForest,8,GAS,1,1.0,0.0,1.0,0.0,8.0
+RandomForest,8,RPM,4,1.0,0.0,1.0,0.0,8.0
+RandomForest,8,SPEED,2,1.0,0.0,1.0,0.0,8.0
+RandomForest,8,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+MLP,8,DoS,6,1.0,0.0,1.0,0.0,8.0
+MLP,8,GAS,1,1.0,0.0,1.0,0.0,8.0
+MLP,8,RPM,4,1.0,0.0,1.0,0.0,8.0
+MLP,8,SPEED,2,1.0,0.0,1.0,0.0,8.0
+MLP,8,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
+XGBoost,8,DoS,6,1.0,0.0,1.0,0.0,8.0
+XGBoost,8,GAS,1,1.0,0.0,1.0,0.0,8.0
+XGBoost,8,RPM,4,1.0,0.0,1.0,0.0,8.0
+XGBoost,8,SPEED,2,1.0,0.0,1.0,0.0,8.0
+XGBoost,8,STEERING_WHEEL,3,1.0,0.0,1.0,0.0,8.0
